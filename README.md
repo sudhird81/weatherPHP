@@ -10,3 +10,6 @@ Weather Dashboard is for checking weather of any city as user input, We are usin
 - Get Clone of repository inside your Xampp htdocs folder named weatherPHP (Make Sure the code files in your weatherPHP/ folder)
   **e.g. d:/xampp/htdocs/weatherPHP/** and pull the code from git using https://github.com/sudhird81/weatherPHP
 - You can run your application using http://localhost/weatherPHP
+
+Screenshot:
+<img src="https://ebullientsoft.com/img/phpcore.png">
