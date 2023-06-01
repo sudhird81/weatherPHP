@@ -1,4 +1,4 @@
-<p align="center"><a href="https://radiclehub.com" target="_blank"><img src="https://newsonair.com/wp-content/uploads/2023/02/NPIC-20221218184238.jpg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://radiclehub.com" target="_blank"><img src="https://img.freepik.com/free-vector/weather-concept-illustration_114360-1234.jpg" width="400" alt="Laravel Logo"></a></p>
 
 ## Weather Dashboard
 
